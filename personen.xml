@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="personen.xsd">
+    <persoon>
+        <voornaam>Hans</voornaam>
+        <achternaam>Roosken</achternaam>
+        <geslacht>Man</geslacht>
+        <haarkleur>Blond</haarkleur>
+        <lengte>1.67</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Jeremy</voornaam>
+        <achternaam>Bak</achternaam>
+        <geslacht>Man</geslacht>
+        <haarkleur>Bruin</haarkleur>
+        <lengte>1.69</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Klara</voornaam>
+        <achternaam>Leister</achternaam>
+        <geslacht>Vrouw</geslacht>
+        <haarkleur>Blauw</haarkleur>
+        <lengte>1.32</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Barry</voornaam>
+        <achternaam>Prent</achternaam>
+        <geslacht>Man</geslacht>
+        <haarkleur>Zwart</haarkleur>
+        <lengte>1.68</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Henry</voornaam>
+        <achternaam>Broker</achternaam>
+        <geslacht>Man</geslacht>
+        <haarkleur>Bruin</haarkleur>
+        <lengte>1.81</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Marieke</voornaam>
+        <achternaam>van Achteren</achternaam>
+        <geslacht>Vrouw</geslacht>
+        <haarkleur>Rood</haarkleur>
+        <lengte>1.66</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Alex</voornaam>
+        <achternaam>van der Salm</achternaam>
+        <geslacht>Man</geslacht>
+        <haarkleur>Blond</haarkleur>
+        <lengte>1.90</lengte>
+    </persoon>
+    <persoon>
+        <voornaam>Wilma</voornaam>
+        <achternaam>Groen</achternaam>
+        <geslacht>Vrouw</geslacht>
+        <haarkleur>Roze</haarkleur>
+        <lengte>1.68</lengte>
+    </persoon>
+</personen>
